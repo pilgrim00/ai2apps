@@ -1,6 +1,5 @@
-# AI2Apps Experimental Public Beta
+# AI2Apps
 
-![home](assets/DocVideo1_EN.mov)
 
 ## News
 
