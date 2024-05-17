@@ -4,7 +4,7 @@
 
 ## 新闻
 
-:fire: May 9, 2024: [Vitalbridge](http://www.vitalbridge.com/blog/复旦大学ai³徐盈辉研究员：agent的可视化创作界面-|-agent-insights?id=428)发布了对AI2Apps团队的专访文章。
+:fire: May 9, 2024: [Vitalbridge Capital](http://www.vitalbridge.com/blog/复旦大学ai³徐盈辉研究员：agent的可视化创作界面-|-agent-insights?id=428)发布了对AI2Apps团队成员的专访文章。
 
 :fire: Apr 14, 2024: 我们在arXiv上发布了论文“[AI2Apps: A Visual IDE for Building LLM-based AI Agent Applications](https://arxiv.org/abs/2404.04902)”!
 
@@ -24,7 +24,21 @@
 ## AI2Apps概览
 AI2Apps作为首个面向LLM-based AI agent应用的可视化集成开发环境（Virtual IDE），覆盖了从原型设计、代码编写、Agent调试以及最终打包发布的完整开发周期，可帮助开发者高效地构建AI Agent应用。AI2Apps 基于 Tab-OS，集成了工程级的开发工具，以及覆盖前后端的全栈式可视化组件，开发者可以在几分钟内通过拖拽迅速构建自己的 AI Agent，并直接生成可以发布的App。
 
-![home](assets/DocVideo1_EN.mov)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>视频播放</title>
+</head>
+<body>
+    <h1>视频播放示例</h1>
+    <video width="600" controls>
+        <source src="assets/DocVideo1_EN.mov" type="video/mp4">
+    </video>
+</body>
+</html>
 
 ## 快速开始
 AI2Apps可以直接在网页中使用，也可以用本项目部署在本地使用。
