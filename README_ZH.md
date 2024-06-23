@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-[English](README.md)
+[English](README.md) [中文](README_ZH.md)
 # AI2Apps
 
 ## 新闻
