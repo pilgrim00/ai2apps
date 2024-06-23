@@ -1,6 +1,6 @@
 
 <a name="readme-top"></a>
-[中文](README_CN.md)
+[中文](README_ZH.md)
 # AI2Apps
 
 ## News
