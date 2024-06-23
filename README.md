@@ -5,9 +5,9 @@
 
 ## News
 
-:fire: June 20, 2024: The browser's control capabilities have been comprehensively upgraded! It now supports Web Agents learning to control web pages in a Zero-shot manner, and enables users to build Web Agent+RPA systems that can adaptively interface with target web pages.
+:fire: June 20, 2024: Browser control capabilities upgraded! Web Agents can now learn to control web pages via zero-shot learning, enabling users to build Web Agents + RPA that dynamically adapt to target web pages.
 
-:fire: June 15, 2024: Supports fully automatic and semi-automatic development mechanisms for Agents/components. No programming required; users can build new Agents/components through interaction with Agent language.
+:fire: June 15, 2024: Supports fully automatic and semi-automatic development mechanisms for Agents/components. Users can interact with Agent languages to build new Agents/components without programming.
 
 :fire: June 15, 2024: Supports the Release of Agents/components. Users can freely share Agents/components with each other.
 
